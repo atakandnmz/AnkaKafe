@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AnkaKafe.UI/1.0.0": {
+        "dependencies": {
+          "AnkaKafe.Data": "1.0.0"
+        },
+        "runtime": {
+          "AnkaKafe.UI.dll": {}
+        }
+      },
+      "AnkaKafe.Data/1.0.0": {
+        "runtime": {
+          "AnkaKafe.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnkaKafe.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnkaKafe.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

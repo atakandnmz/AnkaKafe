@@ -1,0 +1,12 @@
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\bin\Debug\net5.0\AnkaKafe.Data.deps.json
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\bin\Debug\net5.0\AnkaKafe.Data.dll
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\bin\Debug\net5.0\ref\AnkaKafe.Data.dll
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\bin\Debug\net5.0\AnkaKafe.Data.pdb
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.csprojAssemblyReference.cache
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.AssemblyInfoInputs.cache
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.AssemblyInfo.cs
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.csproj.CoreCompileInputs.cache
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.dll
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\ref\AnkaKafe.Data.dll
+C:\Users\ataka\OneDrive\Masaüstü\AnkaKafe\AnkaKafe.Data\obj\Debug\net5.0\AnkaKafe.Data.pdb
